@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.exe
+C:\Users\Admin\source\repos\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.deps.json
+C:\Users\Admin\source\repos\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.runtimeconfig.json
+C:\Users\Admin\source\repos\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.dll
+C:\Users\Admin\source\repos\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.pdb
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.Form1.resources
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.AssemblyInfo.cs
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.dll
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\refint\jamesControls.dll
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.pdb
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.genruntimeconfig.cache
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\ref\jamesControls.dll
+C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.Properties.Resources.resources
