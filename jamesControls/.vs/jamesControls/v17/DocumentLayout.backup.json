@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\jamesControls\\",
+  "WorkspaceRootPath": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\customcontrols\\jameslabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jameslabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\customcontrols\\jamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\customcontrols\\jamespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jamespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\customcontrols\\jamesprogrambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\customcontrols\\jamesprogrambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jamesprogrambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\customcontrols\\jamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\customcontrols\\jameslabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jameslabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\customcontrols\\jamespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\customcontrols\\jamespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|c:\\users\\admin\\source\\repos\\jamescontrols\\jamescontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|d:\\computer engineering\\jamesc-toolkit\\jamescontrols\\jamescontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D52190-6945-4652-8CCA-2585FD3BB25F}|jamesControls\\jamesControls.csproj|solutionrelative:jamescontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 163,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,10 +56,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.resx",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.resx",
               "RelativeDocumentMoniker": "jamesControls\\Form1.resx",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.resx*",
-              "RelativeToolTip": "jamesControls\\Form1.resx*",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.resx",
+              "RelativeToolTip": "jamesControls\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-07-04T17:53:45.255Z",
               "EditorCaption": ""
@@ -68,10 +68,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "jamesControls\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.Designer.cs*",
-              "RelativeToolTip": "jamesControls\\Form1.Designer.cs*",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.Designer.cs",
+              "RelativeToolTip": "jamesControls\\Form1.Designer.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAIwG4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:53:39.356Z",
@@ -79,26 +79,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "jamesLabel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesLabel.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesLabel.cs",
               "RelativeDocumentMoniker": "jamesControls\\CustomControls\\jamesLabel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesLabel.cs",
-              "RelativeToolTip": "jamesControls\\CustomControls\\jamesLabel.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAADwv5gAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesLabel.cs*",
+              "RelativeToolTip": "jamesControls\\CustomControls\\jamesLabel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:34:34.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "jamesButton.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesButton.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesButton.cs",
               "RelativeDocumentMoniker": "jamesControls\\CustomControls\\jamesButton.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesButton.cs",
-              "RelativeToolTip": "jamesControls\\CustomControls\\jamesButton.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAADUAAABRAAAAAAAAAA==",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesButton.cs*",
+              "RelativeToolTip": "jamesControls\\CustomControls\\jamesButton.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:32:30.062Z",
               "EditorCaption": ""
@@ -107,11 +107,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "jamesPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesPanel.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesPanel.cs",
               "RelativeDocumentMoniker": "jamesControls\\CustomControls\\jamesPanel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesPanel.cs",
-              "RelativeToolTip": "jamesControls\\CustomControls\\jamesPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesPanel.cs*",
+              "RelativeToolTip": "jamesControls\\CustomControls\\jamesPanel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T12:25:59.081Z",
               "EditorCaption": ""
@@ -120,23 +120,22 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Program.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Program.cs",
               "RelativeDocumentMoniker": "jamesControls\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Program.cs",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Program.cs",
               "RelativeToolTip": "jamesControls\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:29:21.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T10:29:21.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.cs",
               "RelativeDocumentMoniker": "jamesControls\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.cs*",
-              "RelativeToolTip": "jamesControls\\Form1.cs*",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.cs",
+              "RelativeToolTip": "jamesControls\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T10:34:17.426Z",
@@ -144,25 +143,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "jamesProgramBar.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesProgramBar.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesProgramBar.cs",
               "RelativeDocumentMoniker": "jamesControls\\CustomControls\\jamesProgramBar.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\CustomControls\\jamesProgramBar.cs",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\CustomControls\\jamesProgramBar.cs",
               "RelativeToolTip": "jamesControls\\CustomControls\\jamesProgramBar.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAA7wLoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAAAJ4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T07:50:44.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.cs",
+              "DocumentMoniker": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.cs",
               "RelativeDocumentMoniker": "jamesControls\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\Form1.cs [Design]*",
-              "RelativeToolTip": "jamesControls\\Form1.cs [Design]*",
+              "ToolTip": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\Form1.cs [Design]",
+              "RelativeToolTip": "jamesControls\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T07:49:26.889Z",
               "EditorCaption": " [Design]"

@@ -15,3 +15,21 @@ C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows
 C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.genruntimeconfig.cache
 C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\ref\jamesControls.dll
 C:\Users\Admin\source\repos\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.Properties.Resources.resources
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.exe
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.deps.json
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.runtimeconfig.json
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.dll
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\bin\Debug\net9.0-windows\jamesControls.pdb
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.Form1.resources
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.Properties.Resources.resources
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.csproj.GenerateResource.cache
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.AssemblyInfoInputs.cache
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.AssemblyInfo.cs
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.csproj.CoreCompileInputs.cache
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.sourcelink.json
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.dll
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\refint\jamesControls.dll
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.pdb
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\jamesControls.genruntimeconfig.cache
+D:\Computer Engineering\jamesC-ToolKit\jamesControls\jamesControls\obj\Debug\net9.0-windows\ref\jamesControls.dll

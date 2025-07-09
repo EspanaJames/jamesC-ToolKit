@@ -8,7 +8,6 @@ using System.Windows.Forms;
 namespace jamesControls.CustomControls
 {
     [ToolboxItem(true)]
-    [DesignerCategory("Code")]
     public class jamesLabel : Label
     {
         private bool innerShadow = true;

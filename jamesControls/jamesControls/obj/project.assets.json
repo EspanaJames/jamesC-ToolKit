@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\jamesControls.csproj",
+      "projectUniqueName": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\jamesControls.csproj",
       "projectName": "jamesControls",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\jamesControls.csproj",
+      "projectPath": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\jamesControls.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\jamesControls\\jamesControls\\obj\\",
+      "outputPath": "D:\\Computer Engineering\\jamesC-ToolKit\\jamesControls\\jamesControls\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

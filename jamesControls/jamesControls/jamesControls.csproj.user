@@ -4,6 +4,12 @@
     <Compile Update="CustomControls\jamesButton.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Update="CustomControls\jamesLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\jamesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="CustomControls\jamesProgramBar.cs">
       <SubType>Component</SubType>
     </Compile>

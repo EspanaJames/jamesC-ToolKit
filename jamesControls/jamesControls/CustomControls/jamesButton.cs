@@ -7,6 +7,7 @@ using Timer = System.Windows.Forms.Timer;
 
 namespace jamesControls.CustomControls
 {
+    [ToolboxItem(true)]
     public class jamesButton : Button
     {
         private int borderRadius = 20;

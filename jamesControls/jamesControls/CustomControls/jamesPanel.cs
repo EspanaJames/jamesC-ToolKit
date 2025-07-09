@@ -7,7 +7,6 @@ using System.Windows.Forms;
 namespace jamesControls.CustomControls
 {
     [ToolboxItem(true)]
-    [DesignerCategory("Code")]
     public class jamesPanel : Panel
     {
         private Color topColor = Color.FromArgb(13, 66, 82);

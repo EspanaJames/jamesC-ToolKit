@@ -25,8 +25,10 @@ namespace jamesControls.CustomControls
 
     [DefaultProperty(nameof(Value))]
     [DefaultEvent("Click")]
+    [ToolboxItem(true)]
     public class jamesProgramBar : Control
     {
+
         private int minimum = 0;
         private int maximum = 100;
         private int value = 0;
